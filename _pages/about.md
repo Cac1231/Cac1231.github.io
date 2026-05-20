@@ -21,7 +21,7 @@ redirect_from:
 
 Hi! I am Can Chen, a second-year PhD student in Data Science at the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), [University of California San Diego](https://www.ucsd.edu/). I am fortunate to be advised by [Prof. Michael Yip](https://yip.eng.ucsd.edu).
 
-My research interests lie in trustworthy machine learning for intelligent systems, particularly alignment, controllability, and safety. I am especially interested in reliable decision-making under uncertainty, with applications to large language models and robotics.
+My research interests lie in robot learning, machine learning, and reliable AI. I am especially interested in reliable decision-making and adaptation under uncertainty, with applications to robotics and intelligent systems.
 
 # News {#news}
 - **May 2025**: Our paper, "Online Detection of LLM-Generated Texts via Sequential Hypothesis Testing by Betting", co-authored with Prof. Jun-Kun Wang, has been accepted as a poster at ICML 2025 🎉!～ 
